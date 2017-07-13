@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------
+    LAB 05                                  GNU Make and Regular Expressions
+--------------------------------------------------------------------------------
+
+    Answer all questions for Lab05 in this file. Questions or tasks which 
+    require you to edit another file have the name of the file already 
+    entered for you.
+
+--------------------------------------------------------------------------------
+    QUESTIONS
+--------------------------------------------------------------------------------
+
+------------------
+    QUESTION 1 
+------------------
+
+A)
+
+B)
+
+C) 
+
+D)
+    
+E) 
+
+F) 
+
+G) 
+
+H) 
+
+------------------
+    QUESTION 2
+------------------
+
+A)
+
+B)
+
+C)
+
+D)
+
+------------------
+    QUESTION 3
+------------------
+
+A) Submit modified Makefile
+
+B) Submit modified Makefile
+
+C) Submit modified C & H files
+
+D) Submit sim.data
+
+E) Submit graph image
+    
+F) 
+    
+G)
+    
